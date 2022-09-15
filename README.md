@@ -14,11 +14,11 @@ There are three parts to this assignment. It’s recommended you complete the fi
 
  
 
-1. Ask a Question  
-    a.	Create a new, appropriately named GitHub repo. This repo should be public so others can access it  
-    b.	Init a new Git repo locally  
-    c.	Add a file to your Git repo called `conversations.txt`. The first line should be your name with a question for a classmate, for example “Evan: What is your favorite color?”
-    d.	Push your file to your GitHub repo. Send your repo url to a classmate and ask them to respond  
+1. Ask a Question 
+    * Create a new, appropriately named GitHub repo. This repo should be public so others can access it 
+    * Init a new Git repo locally 
+    * Add a file to your Git repo called `conversations.txt`. The first line should be your name with a question for a classmate, for example “Evan: What is your favorite color?”
+    * Push your file to your GitHub repo. Send your repo url to a classmate and ask them to respond 
 
 2. Answer a Question  
     a.	Fork a classmate’s GitHub repo   
